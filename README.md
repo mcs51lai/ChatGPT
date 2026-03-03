@@ -1,2 +1,2 @@
 # ChatGPT
-應該於ChatGPT Codex
+應用於ChatGPT Codex
